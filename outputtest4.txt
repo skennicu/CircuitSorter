@@ -1,0 +1,2 @@
+Gerber yeilded data that was not found in FPT: 
+FPT yeilded data that was not found in Gerber: 
